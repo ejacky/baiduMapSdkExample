@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jackyzhang\androidStudio-sdk\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\BaiduMapsApiDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-51c483a4466ec56d9568eff6a92a011da90ec165.jar" />
+    </item>
+    <item
+        jar="D:\BaiduMapsApiDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="868c060abfa9778e598e631f93f94037edbe8996">
+        <dex dex="D:\BaiduMapsApiDemo\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android-5eed149211eab3c0fc6478155423603c2203fa6d.jar" />
+    </item>
+
+</items>
